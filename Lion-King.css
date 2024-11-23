@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
+
+section{
+    display: flex;
+}
+p{
+    margin: 20px;
+    padding: 20px;
+}
+.lion-king{
+  justify-content: center;
+   align-items: center;
+}
+h1{
+    font-size: 90px;
+    color: darkmagenta;
+    text-shadow: 3px 2px 0px #f7d8e1,
+                 5px 5px 10px #f6a9bf,
+                -10px 5px 15px #fafb8e,
+                -5px -5px 25px #bb03f7;                 
+}
+.lion-child p {
+         font-size: 40pt;
+         font-family: "Underdog", system-ui;
+
+}
+
+
+
+
+
+
+
+
+
